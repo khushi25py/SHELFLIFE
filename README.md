@@ -1,24 +1,54 @@
-# Shelf Life Platform
+# SHELFLIFE+ — Food Waste Marketplace
+
+A full-stack web platform to reduce food/product wastage by enabling shops to sell near-expiry items at discounted prices and connect with NGOs for redistribution.
+
+---
 
 ## 📌 Overview
-Shelf Life is a web-based platform aimed at reducing product and food wastage by enabling shops to sell items nearing expiry at discounted prices. It also connects shops with NGOs to distribute unsold products at minimal cost for social welfare.
+Shelf Life helps:
+- 🏪 Shop owners sell near-expiry items
+- 👤 Users buy products at discounted prices
+- 💜 NGOs access unsold items at minimal cost
 
-## 🚀 Features
-- Users can purchase near-expiry products at lower prices
-- Shop owners can list and manage products close to expiry
-- NGOs can access products at minimal cost
-- Role-based system: User, Shop, NGO
-- Product management and listing system
+---
+
+## 🛠 Tech Stack
+### Frontend
+- React.js (React 18)
+- React Router v6
+- Context API
+- CSS (no external framework)
+
+### Backend
+- Node.js + Express.js
+- MySQL
+- REST APIs
+
+---
+
+## 🚀 Key Features
+- Multi-role system: User, Shop Owner, NGO
+- Product listing & inventory management
+- Order management system
+- NGO donation workflow
+- Filtering, sorting, and cart system
+- Impact tracking (CO₂, savings)
+
+---
 
 ## 👩‍💻 My Contribution
 - Worked on backend/API development
-- Implemented product listing and management logic
+- Implemented product listing & management logic
 - Handled data processing
-- Collaborated in team-based development
+- Collaborated in a team-based development environment
+
+---
 
 ## ⚠️ Note
-This is a forked version of the original team project:
+This is a forked version of a team project:
 https://github.com/kishanpaghdar-edu/SHELFLIFE
+
+---
 
 ## 📎 Status
 Project under continuous improvement and enhancements.
