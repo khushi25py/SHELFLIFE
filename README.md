@@ -50,6 +50,40 @@ This is a forked version of a team project:
 https://github.com/kishanpaghdar-edu/SHELFLIFE
 
 ---
+## ⚙️ Backend Setup
 
+Express.js + MySQL REST API
+
+### Steps to run:
+
+1. Install dependencies
+npm install
+
+2. Create .env file
+copy .env.example .env  
+(Add your MySQL password inside)
+
+3. Create database
+mysql -u root -p < schema.sql
+
+4. Start server
+npm run dev  
+npm start  
+
+Server runs on http://localhost:5000
+
+---
+
+## 💻 Frontend Setup
+
+1. Install dependencies
+npm install
+
+2. Start the app
+npm start
+
+App runs on http://localhost:3000
+
+---
 ## 📎 Status
 Project under continuous improvement and enhancements.
