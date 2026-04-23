@@ -20,4 +20,5 @@ Shelf Life is a web-based platform aimed at reducing product and food wastage by
 This is a forked version of the original team project:
 https://github.com/kishanpaghdar-edu/SHELFLIFE
 
-(Will update more details soon)
+## 📎 Status
+Project under continuous improvement and enhancements.
