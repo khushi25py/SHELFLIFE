@@ -13,6 +13,7 @@ Shelf Life helps:
 ---
 
 ## 🛠 Tech Stack
+
 ### Frontend
 - React.js (React 18)
 - React Router v6
@@ -45,7 +46,7 @@ Shelf Life helps:
 ---
 
 ## ⚠️ Note
-This is a forked version of a team project:
+This is a forked version of a team project:  
 https://github.com/kishanpaghdar-edu/SHELFLIFE
 
 ---
